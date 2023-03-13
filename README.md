@@ -6,7 +6,7 @@ Siempre he estado relacionado con el mundo IT y me he desempeñado como soporte 
 
 ## ✔ Comandos terminal
 
-Estos son mis 5 comandos 
+### Estos son mis 5 comandos 
 
 |comando | descripcion                 |
 |--------|-----------------------------|
