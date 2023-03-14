@@ -15,4 +15,17 @@ Siempre he estado relacionado con el mundo IT y me he desempeñado como soporte 
 |**pwd** |El comando pwd significa “directorio de trabajo de impresión” y es un comando de Linux simple pero útil. Este comando se usa para mostrar el nombre de su directorio actual, lo que puede ser útil al navegar por el sistema de archivos.      |
 |**cat**     |Cat, aunque es un comando simple en su nivel más básico, es uno de los comandos de Linux más utilizados en el sistema. Significa “concatenar” y se usa para mostrar lo que hay dentro de un archivo de texto. Solo puede usar el comando cat si conoce el nombre y la extensión del archivo que desea mostrar.     |
 |**cp**  |El comando ‘cp’ es una utilidad de línea de comandos que copia archivos. Es uno de los comandos más útiles del sistema Linux y puede copiar archivos o directorios a otro directorio. El comando cp se puede usar con los comandos ‘cp’ o ‘mv’ para mover archivos.      |
-|**alias**   |Esto es una descripcion      |
+
+
+
+# Mis **alias** mas usados  
+
+```
+alias actualizar="sudo apt update && sudo apt dist-upgrade -y" nos permite acutlizar todo el sistema en un solo comando.
+
+alias mv="mv -i" este alias nos pedira confirmacion al momento de sobreescribir un archivo 
+
+
+```
+
+
